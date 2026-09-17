@@ -240,4 +240,4 @@ This repository serves as the official landing page for **Summoners War: Sky Are
 **Get the most recent version of Summoners War: Sky Arena today!**
 
 ---
-**Last updated:** 2026-09-17 13:52:58 UTC
+**Last updated:** 2026-09-17 17:49:18 UTC
